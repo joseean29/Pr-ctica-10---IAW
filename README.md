@@ -8,6 +8,6 @@ Una vez que seleccionamos el tema que queremos le damos a activar y listo. Podem
 Dentro del panel del administrador entramos dentro del apartado Plugins y ahí le damos a añadir uno nuevo. Yo he elegido el Jetpack, pero podemos buscar muchos mas plugins.
 
 ## CREDENCIALES
-IP de mi sitio: 54.234.3.206
+IP de mi sitio: 3.80.213.191
 Usuario: admin
 Contraseña: admin
