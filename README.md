@@ -91,7 +91,7 @@ sudo wp plugin update --all --allow-root
 
 
 ## CREDENCIALES
-**[IP de mi sitio](http://3.80.213.191)**
+**[IP de mi sitio](http://3.235.181.10)**
 ```
 Usuario: admin
 Contraseña: admin
