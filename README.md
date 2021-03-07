@@ -49,7 +49,7 @@ sudo wp theme update --all --allow-root
 ## INSTALACIÓN DE UN PLUGIN
 Yo en mi caso he instalado los temas que se ven en la captura de pantalla de debajo.
 
-![]()
+![](https://raw.githubusercontent.com/joseean29/Practica-10-IAW/main/image/misplugins.PNG)
 
 Esto lo he hecho de la siguiente forma:
 ```
